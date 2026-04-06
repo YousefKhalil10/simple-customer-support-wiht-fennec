@@ -1,6 +1,6 @@
 # 🦊 Fennec Customer Support System
 
-> **Production-ready AI customer support powered by [Fennec RAG](https://github.com/your-org/fennec-rag)**
+> **Production-ready AI customer support powered by [Fennec RAG](https://fennec-community.vercel.app/)**
 > — Conversational RAG · Semantic Routing · Hallucination Guard · Arabic Support
 
 ---
@@ -21,34 +21,6 @@ A full-stack intelligent customer support system that:
 
 ---
 
-## 🏗 Architecture
-
-```
-Customer Request
-      │
-      ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                     FastAPI Backend                             │
-│                                                                 │
-│  ┌──────────────┐    ┌─────────────────┐    ┌───────────────┐  │
-│  │  Semantic    │    │ Conversational  │    │ Hallucination │  │
-│  │  Router      │───▶│    RAG Engine   │───▶│    Guard      │  │
-│  │  (6 routes)  │    │ (Window Memory) │    │ (validates)   │  │
-│  └──────────────┘    └────────┬────────┘    └───────────────┘  │
-│                               │                                 │
-│                    ┌──────────▼─────────┐                       │
-│                    │   FAISS Vector DB  │                       │
-│                    │  + OpenAI Embedder │                       │
-│                    └────────────────────┘                       │
-└─────────────────────────────────────────────────────────────────┘
-      │
-      ▼
-  Chat Response
-  + Route Label
-  + Confidence Score
-  + Source References
-  + Follow-up Suggestions
-```
 
 ---
 
@@ -57,7 +29,7 @@ Customer Request
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/your-org/fennec-customer-support
+git clone https://github.com/YousefKhalil10/simple-customer-support-wiht-fennec
 cd fennec-customer-support
 
 # Create virtual environment
@@ -335,4 +307,4 @@ pytest tests/ -v
 
 ## 📄 License
 
-MIT License — built with [Fennec RAG](https://github.com/your-org/fennec-rag) 🦊
+MIT License — built with [Fennec RAG](https://fennec-community.vercel.app/) 🦊
