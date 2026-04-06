@@ -1,7 +1,7 @@
 # 🦊 Fennec Customer Support System
 
 > **Production-ready AI customer support powered by [Fennec RAG](https://fennec-community.vercel.app/)**
-> — Conversational RAG · Semantic Routing · Hallucination Guard · Arabic Support
+> — Conversational RAG · Semantic Routing · Arabic Support
 
 ---
 
