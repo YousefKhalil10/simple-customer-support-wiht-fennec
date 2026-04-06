@@ -13,7 +13,7 @@ A full-stack intelligent customer support system that:
 |---|---|
 | 🧭 **Semantic Routing** | Automatically classifies queries into FAQ / Orders / Returns / Technical / Complaints / General |
 | 🗣️ **Conversational Memory** | Remembers the last 8 messages per session — no need to repeat context |
-| 🛡️ **Hallucination Guard** | Validates every answer before sending — blocks made-up information |
+
 | 📚 **Knowledge Base RAG** | Retrieves from your actual support docs — not hallucinated answers |
 | ⚡ **Multi-Level Cache** | Speeds up repeated queries (L1 in-memory → L2 disk → L3 semantic) |
 | 🌍 **Arabic + English** | Fully bilingual — auto-detects language and responds accordingly |
