@@ -1,0 +1,22 @@
+# 🦊 Fennec Customer Support — Render deployment
+# https://render.com
+# Place this file as render.yaml in your repo root
+
+services:
+  - type: web
+    name: fennec-customer-support
+    env: docker
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /health
+    autoDeploy: true
+
+    # RAM: at least 1GB for sentence-transformers model
+    plan: starter
+
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false          # Set in Render dashboard — never commit secrets!
+      - key: LLM_MODEL
+        value: gpt-4o-mini
+      - key: EMBED_MODEL
+        value: text-embedding-3-small

@@ -1,0 +1,21 @@
+{
+  "session_info": {
+    "created_at": "2026-04-06T00:53:31.241185",
+    "total_turns": 2,
+    "max_turns": 10
+  },
+  "turns": [
+    {
+      "query": "من انت",
+      "answer": "Based on the provided context, I am a **customer support agent** here to assist you with questions related to your orders, payments, returns, or any other information mentioned in the retrieved documents.\n\nIf your question is about something not covered in the context, I won’t be able to provide an answer. How can I help you today? 😊\n\n📚 Sources:\n- doc_d91876ab_1775429512 (similarity: 0.62)\n- doc_cf2d9f01_1775429512 (similarity: 0.62)\n- doc_a050b4b6_1775429512 (similarity: 0.61)",
+      "timestamp": "2026-04-06T00:53:06.446452",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "ماهي خدماتكم",
+      "answer": "Based on the retrieved context, here are the services we provide:\n\n1. **Order Processing & Shipping**:\n   - Local shipping (3–5 business days for standard, 1–2 days for express).\n   - International shipping (7–14 business days).\n   - Free standard shipping for orders over $50.\n   - Express shipping for a fixed fee of $12.99.\n\n2. **Payment Methods**:\n   - Visa, Mastercard, American Express.\n   - PayPal, Apple Pay, Google Pay.\n   - Bank transfer (for Enterprise plan only).\n   - *Note*: We do not currently accept cryptocurrencies.\n\n3. **Enterprise Plan (Custom Pricing)**:\n   - Dedicated account manager.\n   - SLA guarantees.\n   - Custom integrations.\n   - 14-day free trial (no credit card required).\n\n4. **Customer Support for Issues**:\n   - Order modifications (within 1 hour of placement).\n   - Handling duplicate payments or charges.\n   - Troubleshooting app/browser issues (e.g., clearing cache, 2FA errors).\n   - Email verification and account updates.\n\nIf you need details about a specific service not listed here, let me know, and I’ll check further! 😊\n\n📚 Sources:\n- doc_d91876ab_1775429512 (similarity: 0.71)\n- doc_5ed19f9c_1775429512 (similarity: 0.70)\n- doc_a050b4b6_1775429512 (similarity: 0.68)",
+      "timestamp": "2026-04-06T00:53:31.241185",
+      "retrieved_chunks": 6
+    }
+  ]
+}

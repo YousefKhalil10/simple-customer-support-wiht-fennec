@@ -1,0 +1,21 @@
+{
+  "session_info": {
+    "created_at": "2026-04-06T00:56:37.811299",
+    "total_turns": 2,
+    "max_turns": 10
+  },
+  "turns": [
+    {
+      "query": "من انت",
+      "answer": "Based on the provided context, I am a **customer support assistant** here to help you with questions related to your orders, returns, payments, or shipping status. I rely **only** on the information retrieved from official sources to answer your queries accurately.\n\nIf you have any questions about your order, refunds, or other related topics, feel free to ask! 😊\n\n📚 Sources:\n- doc_d91876ab_1775429680 (similarity: 0.62)\n- doc_cf2d9f01_1775429680 (similarity: 0.62)\n- doc_a050b4b6_1775429680 (similarity: 0.61)",
+      "timestamp": "2026-04-06T00:56:21.603998",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "ماهي خدماتكم",
+      "answer": "Based on the retrieved context, here are the services we provide:\n\n1. **Order Processing & Shipping**:\n   - Order confirmation and processing (1–2 business days).\n   - Packaging and shipping via partnered delivery services.\n   - Local shipping (3–5 business days standard, 1–2 days express).\n   - International shipping (7–14 business days).\n   - Free standard shipping for orders over $50.\n\n2. **Payment Methods**:\n   - Visa, Mastercard, American Express.\n   - PayPal, Apple Pay, Google Pay.\n   - Bank transfer (for Enterprise plan only).\n   - *Note*: Digital currencies are not accepted.\n\n3. **Enterprise Plan (Custom Pricing)**:\n   - Dedicated account manager.\n   - SLA guarantees.\n   - Custom integrations.\n   - 14-day free trial (no credit card required).\n\n4. **Order Modifications**:\n   - Edits allowed within 1 hour of placing the order (before processing starts).\n\n5. **Customer Support for Issues**:\n   - Duplicate order cancellations.\n   - Payment discrepancies (e.g., double charges).\n   - 2FA/authentication troubleshooting.\n   - App/browser-related issues (e.g., crashes, cache clearing).\n\n📚 Sources:\n- doc_d91876ab_1775429680 (similarity: 0.71)\n- doc_5ed19f9c_1775429680 (similarity: 0.70)\n- doc_a050b4b6_1775429680 (similarity: 0.68)",
+      "timestamp": "2026-04-06T00:56:37.811299",
+      "retrieved_chunks": 6
+    }
+  ]
+}

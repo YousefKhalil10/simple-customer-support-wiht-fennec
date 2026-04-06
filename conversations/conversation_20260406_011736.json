@@ -1,0 +1,51 @@
+{
+  "session_info": {
+    "created_at": "2026-04-06T01:20:57.780395",
+    "total_turns": 7,
+    "max_turns": 10
+  },
+  "turns": [
+    {
+      "query": "من انت",
+      "answer": "أنا وكيل دعم عملاء، ومهمتي هي مساعدتك في الاستفسارات المتعلقة بحالات الطلب، وتعديلها، وسياسات الإرجاع والاسترداد المالي، بالإضافة إلى معالجة المشكلات التقنية المتعلقة بالدفع والموقع بناءً على المعلومات المتاحة لدي.\n\n📚 Sources:\n- doc_d91876ab_1775430992 (similarity: 0.62)\n- doc_cf2d9f01_1775430992 (similarity: 0.62)\n- doc_a050b4b6_1775430992 (similarity: 0.61)",
+      "timestamp": "2026-04-06T01:17:57.977411",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "كيف يمكنني التواصل مع فريق الدعم",
+      "answer": "بناءً على المعلومات المتاحة، لا توجد تفاصيل محددة حول وسيلة التواصل (مثل رقم الهاتف أو البريد الإلكتروني). ومع ذلك، يُنصح بالتواصل معنا فوراً في حال كان لديك طلب واحد ولكن تم خصم المبلغ مرتين، مع تزويدنا بمعرفي المعاملة.\n\n📚 Sources:\n- doc_a050b4b6_1775430992 (similarity: 0.79)\n- doc_d91876ab_1775430992 (similarity: 0.79)\n- doc_cf2d9f01_1775430992 (similarity: 0.77)",
+      "timestamp": "2026-04-06T01:18:33.206344",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "ماهي ساعات العمل",
+      "answer": "بناءً على المعلومات المتاحة لدي، لا توجد تفاصيل محددة حول ساعات العمل اليومية. ومع ذلك، تشير المعلومات إلى أن معالجة الطلبات تستغرق من 1 إلى 2 يوم عمل، وأن فريق الدعم يقوم بتقييم مطالبات الضمان خلال 3 أيام عمل.\n\n📚 Sources:\n- doc_d91876ab_1775430992 (similarity: 0.72)\n- doc_cf2d9f01_1775430992 (similarity: 0.72)",
+      "timestamp": "2026-04-06T01:19:01.019911",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "ماهي خدماتكم",
+      "answer": "أهلاً بك! بناءً على المعلومات المتاحة، تشمل خدماتنا ما يلي:\n\n*   **خطط المؤسسات:** نوفر خطة للمؤسسات بتسعير مخصص، تشمل مدير حساب مخصص، ضمانات (SLA)، وتكاملات مخصصة.\n*   **تجربة مجانية:** نوفر تجربة مجانية لمدة 14 يوماً لجميع الخطط دون الحاجة لبطاقة ائتمان.\n*   **إدارة ومعالجة الطلبات:** نقوم بتجهيز وتغليف الطلبات وشحنها، مع إمكانية تتبع حالة الطلب (قيد المعالجة، تم الشحن، قيد النقل، إلخ).\n*   **تعديل الطلبات:** يمكن تعديل الطلبات خلال ساعة واحدة من تقديمها.\n*   **خدمات الشحن:** نوفر شحناً محلياً (عادي وسريع) وشحناً دولياً، مع شحن قياسي مجاني للطلبات التي تزيد عن 50 دولاراً.\n*   **الدعم التقني والحسابات:** نساعد في حل مشكلات الدفع، وتعديل بيانات الحساب (مثل البريد الإلكتروني)، ومعالجة مشكلات التطبيق والموقع الإلكتروني.\n\n📚 **المصادر:**\n- doc_d91876ab_1775430992\n- doc_5ed19f9c_1775430992\n- doc_a050b4b6_1775430992\n\n📚 Sources:\n- doc_d91876ab_1775430992 (similarity: 0.71)\n- doc_5ed19f9c_1775430992 (similarity: 0.70)\n- doc_a050b4b6_1775430992 (similarity: 0.68)",
+      "timestamp": "2026-04-06T01:19:33.040294",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "How can I contact support?",
+      "answer": "You can contact our support team through the following methods:\n\n*   **Email:** support@company.com\n*   **Live Chat:** Available on our website and mobile application.\n*   **Phone:** You can call us at +1-800-SUPPORT (available Monday to Friday, 9:00 AM – 6:00 PM GMT+3).\n*   **Priority Support Chat:** Available 24/7 for Premium members for urgent issues.\n\n📚 Sources:\n- doc_a050b4b6_1775430992 (similarity: 0.59)\n- doc_d91876ab_1775430992 (similarity: 0.56)\n- doc_5ed19f9c_1775430992 (similarity: 0.55)",
+      "timestamp": "2026-04-06T01:19:49.412586",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "Tell me about your services",
+      "answer": "Based on the available information, our services include:\n\n*   **Customer Support:** We provide support via email, live chat, and phone. Premium members have access to 24/7 priority support chat for urgent issues.\n*   **Warranty Services:** All products come with a 12-month manufacturer warranty. We also offer extended warranty plans for two years ($29.99) or three years ($49.99) covering manufacturing defects.\n*   **Order & Shipping Management:** We handle order processing (typically 1–2 business days), packaging, and shipping. Customers can track their orders via our website, email, or SMS.\n*   **Special Discounts:** We offer a 20% discount for students (with a verified .edu email) and a 15% discount for healthcare workers (with a professional ID).\n*   **Technical Assistance:** We provide support for website troubleshooting, browser issues, and payment processing difficulties.\n*   **Data Privacy:** We offer services to manage your personal data, including requesting a copy of your information or account deletion.\n\n📚 Sources:\n- doc_5ed19f9c_1775430992 (similarity: 0.51)\n- doc_a050b4b6_1775430992 (similarity: 0.50)",
+      "timestamp": "2026-04-06T01:20:07.513999",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "what is your services",
+      "answer": "Error: Server disconnected without sending a response.\n\n📚 Sources:\n- doc_a050b4b6_1775430992 (similarity: 0.43)\n- doc_5ed19f9c_1775430992 (similarity: 0.42)\n- doc_d91876ab_1775430992 (similarity: 0.42)",
+      "timestamp": "2026-04-06T01:20:57.780395",
+      "retrieved_chunks": 6
+    }
+  ]
+}

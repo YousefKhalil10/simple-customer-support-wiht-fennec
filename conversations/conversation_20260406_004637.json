@@ -1,0 +1,15 @@
+{
+  "session_info": {
+    "created_at": "2026-04-06T00:46:56.349279",
+    "total_turns": 1,
+    "max_turns": 10
+  },
+  "turns": [
+    {
+      "query": "ماهي خدماتكم",
+      "answer": "Based on the provided context, here are the services and related information we offer:\n\n1. **Order Delivery Status**:\n   - **Out for Delivery**: Your package is on the delivery truck today.\n   - **Delivered**: Your package has been delivered to the address.\n   - **Attempted Delivery**: A delivery was attempted but no one was home—check for a notice.\n\n2. **Order Modification**:\n   - You can modify your order (e.g., change quantity, size/color, or delivery address) **within 1 hour of placement** before processing begins.\n   - After 1 hour, contact support immediately at **support@company**.\n\n3. **Payment Support**:\n   - Troubleshooting for declined payments (e.g., insufficient funds, expired card, incorrect billing address, or international transaction blocks).\n   - Double charges: Check your email for two separate order confirmations.\n\n4. **International Orders**:\n   - We ship to many countries, but some (e.g., Cuba, Iran, North Korea, Russia, Syria) are restricted.\n   - Customs duties/taxes may apply and are the buyer’s responsibility.\n\n5. **Notifications**:\n   - If notifications aren’t working, check app permissions or in-app settings.\n\nFor **large/bulk orders** or other inquiries not covered here, please contact us directly.\n\nIf you need further details about a specific service, let me know!\n\n📚 Sources:\n- doc_cd7ab02c_1775429161 (similarity: 0.47)\n- doc_5240606f_1775429161 (similarity: 0.46)",
+      "timestamp": "2026-04-06T00:46:56.349279",
+      "retrieved_chunks": 6
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "session_info": {
+    "created_at": "2026-04-06T00:59:51.792870",
+    "total_turns": 2,
+    "max_turns": 10
+  },
+  "turns": [
+    {
+      "query": "من انت",
+      "answer": "I’m your customer support assistant here to help with questions related to your orders, returns, payments, or shipping based on the provided information.\n\nIf you have any specific questions about your order status, refunds, or other services, feel free to ask! 😊\n\n📚 Sources:\n- doc_d91876ab_1775429883 (similarity: 0.62)\n- doc_cf2d9f01_1775429883 (similarity: 0.62)\n- doc_a050b4b6_1775429883 (similarity: 0.61)",
+      "timestamp": "2026-04-06T00:59:32.086471",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "ماهي خدماتكم",
+      "answer": "Based on the provided context, here are the services we offer:\n\n1. **Order Processing & Shipping**:\n   - Order status tracking (e.g., processing, packaging, shipping, delivery).\n   - Local shipping (3–5 business days standard, 1–2 days express).\n   - International shipping (7–14 business days).\n   - Free standard shipping for orders over $50.\n\n2. **Payment Methods**:\n   - Visa, Mastercard, American Express.\n   - PayPal, Apple Pay, Google Pay.\n   - Bank transfer (for Enterprise plan only).\n   - *Note*: Digital currencies are not accepted.\n\n3. **Account & Order Management**:\n   - Order modification within 1 hour of placement.\n   - Duplicate order cancellation.\n   - Two-factor authentication (2FA) support.\n\n4. **Enterprise Plan (Custom Pricing)**:\n   - Dedicated account manager.\n   - SLA guarantees.\n   - Custom integrations.\n\n5. **Customer Support for Issues**:\n   - Duplicate payment resolution (refunds processed in 5–7 business days).\n   - Browser/app troubleshooting (e.g., clearing cache, checking cookies).\n   - Email verification and updates.\n\nIf you need details about a specific service not listed here, let me know! For technical issues (e.g., app crashes), I can guide you through troubleshooting steps. 😊\n\n📚 Sources:\n- doc_d91876ab_1775429883 (similarity: 0.71)\n- doc_5ed19f9c_1775429883 (similarity: 0.70)\n- doc_a050b4b6_1775429883 (similarity: 0.68)",
+      "timestamp": "2026-04-06T00:59:51.792870",
+      "retrieved_chunks": 6
+    }
+  ]
+}

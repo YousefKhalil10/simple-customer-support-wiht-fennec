@@ -1,0 +1,15 @@
+{
+  "session_info": {
+    "created_at": "2026-04-06T01:10:25.843960",
+    "total_turns": 1,
+    "max_turns": 10
+  },
+  "turns": [
+    {
+      "query": "How do I track my order?",
+      "answer": "Error: Server disconnected without sending a response.\n\n📚 Sources:\n- doc_d91876ab_1775430504 (similarity: 0.55)\n- doc_5ed19f9c_1775430504 (similarity: 0.44)",
+      "timestamp": "2026-04-06T01:10:25.843960",
+      "retrieved_chunks": 6
+    }
+  ]
+}

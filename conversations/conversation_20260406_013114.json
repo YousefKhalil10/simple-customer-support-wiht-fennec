@@ -1,0 +1,69 @@
+{
+  "session_info": {
+    "created_at": "2026-04-06T01:35:22.964413",
+    "total_turns": 10,
+    "max_turns": 10
+  },
+  "turns": [
+    {
+      "query": "what is your services",
+      "answer": "Based on the provided information, we offer the following services and support:\n\n*   **Technical Support:** Assistance with account login issues, including password resets and unlocking accounts.\n*   **Warranty Services:** All products come with a 12-month manufacturer warranty. We also offer extended warranty plans for two years ($29.99) or three years ($49.99).\n*   **Order Management & Shipping:** We provide order tracking through carriers like FedEx, UPS, DHL, and USPS, as well as international shipping services.\n*   **Discounts:** We offer special discounts for students (20% off) and healthcare professionals (15% off).\n*   **Large & Institutional Orders:** Specialized handling for orders of 10 units or more or corporate purchases.\n*   **Data Privacy:** You can request a copy of your personal data or ask for account deletion at any time.\n\nIf you need assistance with a specific service, please let me know!\n\n📚 Sources:\n- doc_a050b4b6_1775431730 (similarity: 0.43)\n- doc_5ed19f9c_1775431730 (similarity: 0.42)\n- doc_d91876ab_1775431730 (similarity: 0.42)",
+      "timestamp": "2026-04-06T01:31:31.479823",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "من انت",
+      "answer": "أنا وكيل دعم العملاء، وأنا هنا لمساعدتك في الاستفسارات المتعلقة بالخدمات والعمليات المتاحة لدينا، بما في ذلك:\n\n*   **إدارة الطلبات:** تتبع حالة الطلب، تعديله، أو إلغائه.\n*   **عمليات الإرجاع والاسترداد:** إرشادك حول شروط وكيفية إرجاع المنتجات والجدول الزمني لاسترداد الأموال.\n*   **الدعم الفني والتقني:** المساعدة في مشكلات تسجيل الدخول، الدفع، أو مشكلات الموقع الإلكتروني.\n*   **الضمان والخصومات:** تقديم معلومات حول ضمان المنتجات والخصومات المتاحة.\n\nكيف يمكنني مساعدتك اليوم؟\n\n📚 Sources:\n- doc_d91876ab_1775431730 (similarity: 0.62)\n- doc_cf2d9f01_1775431730 (similarity: 0.62)\n- doc_a050b4b6_1775431730 (similarity: 0.61)",
+      "timestamp": "2026-04-06T01:31:51.288366",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "هل تتكلم اللغه العربيه؟",
+      "answer": "نعم، أنا أتحدث اللغة العربية وأنا هنا لمساعدتك كوكيل دعم عملاء. يمكنني مساعدتك في الاستفسارات المتعلقة بـ:\n\n*   **إدارة الطلبات:** مثل تتبع حالة الطلب أو تعديله.\n*   **الحسابات والدعم التقني:** مثل مشكلات تسجيل الدخول، الحسابات المغلقة، أو المصادقة الثنائية (2FA).\n*   **عمليات الإرجاع والاسترداد:** شروط إرجاع المنتجات والمدد الزمنية لاسترداد الأموال.\n\nكيف يمكنني مساعدتك اليوم؟\n\n📚 **المصادر:**\n- doc_d91876ab_1775431730\n- doc_a050b4b6_1775431730\n- doc_cf2d9f01_1775431730\n\n📚 Sources:\n- doc_d91876ab_1775431730 (similarity: 0.82)\n- doc_a050b4b6_1775431730 (similarity: 0.80)\n- doc_cf2d9f01_1775431730 (similarity: 0.79)",
+      "timestamp": "2026-04-06T01:32:13.554043",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "ماهي خدماتكم",
+      "answer": "بناءً على المعلومات المتاحة، نقدم الخدمات والدعم التالي:\n\n*   **خطط المؤسسات:** نوفر خططاً مخصصة للمؤسسات تشمل مدير حساب مخصص، ضمانات (SLA)، وتكاملات مخصصة، بالإضافة إلى تجربة مجانية لمدة 14 يوماً لجميع الخطط.\n*   **إدارة الطلبات:** تتبع حالة الطلبات (من المعالجة حتى التسليم) وإمكانية تعديل الطلبات خلال ساعة واحدة من تقديمها.\n*   **خدمات الشحن:** نوفر شحناً محلياً (عادي وسريع) وشحناً دولياً، مع شحن قياسي مجاني للطلبات التي تزيد عن 50 دولاراً.\n*   **الدعم الفني والتقني:** المساعدة في مشكلات الحساب (مثل تغيير البريد الإلكتروني أو حل مشكلات رمز 2FA)، ومعالجة مشكلات الدفع، وحل أعطال التطبيق والموقع الإلكتروني.\n*   **تعدد وسائل الدفع:** نقبل مجموعة واسعة من وسائل الدفع تشمل البطاقات الائتمانية، PayPal، Apple Pay، Google Pay، والتحويلات البنكية (للمؤسسات).\n\nكيف يمكنني مساعدتك في أي من هذه الخدمات اليوم؟\n\n📚 **المصادر:**\n- doc_d91876ab_1775431730\n- doc_5ed19f9c_1775431730\n- doc_a050b4b6_1775431730\n\n📚 Sources:\n- doc_d91876ab_1775431730 (similarity: 0.71)\n- doc_5ed19f9c_1775431730 (similarity: 0.70)\n- doc_a050b4b6_1775431730 (similarity: 0.68)",
+      "timestamp": "2026-04-06T01:32:31.852311",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "اتواصل مع فريق الدعم ازاي",
+      "answer": "بناءً على المعلومات المتاحة، يمكنك التواصل مع فريق الدعم في الحالات التالية وبالطرق المذكورة:\n\n*   **لفتح الحساب المغلق يدوياً:** يمكنك الاتصال بالدعم لفتح الحساب (يتطلب ذلك التحقق من الهوية).\n*   **عند فقدان رموز النسخ الاحتياطي للمصادقة الثنائية (2FA):** يجب التواصل مع الدعم مع تقديم بطاقة هوية حكومية لاستعادة الوصول إلى الحساب.\n*   **عند استمرار مشكلات التطبيق:** إذا لم تنجح خطوات الحل التقني، يمكنك التواصل معنا وتزويدنا بـ:\n    *   طراز جهازك وإصدار نظام التشغيل.\n    *   خطوات إعادة إنتاج المشكلة.\n    *   لقطة شاشة أو تسجيل شاشة للمشكلة إن أمكن.\n\n📚 **المصادر:**\n- doc_a050b4b6_1775431730\n\n📚 Sources:\n- doc_a050b4b6_1775431730 (similarity: 0.77)\n- doc_d91876ab_1775431730 (similarity: 0.76)",
+      "timestamp": "2026-04-06T01:33:08.422427",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "كم هي ساعات العمل",
+      "answer": "عذراً، لا توجد معلومات كافية حول ساعات العمل في المصادر المتاحة حالياً.\n\nومع ذلك، يمكنك التواصل مع فريق الدعم عبر البريد الإلكتروني support@company.com للاستفسار عن أي تفاصيل إضافية.\n\n📚 **المصادر:**\n- doc_d91876ab_1775431730\n\n📚 Sources:\n- doc_cf2d9f01_1775431730 (similarity: 0.72)\n- doc_d91876ab_1775431730 (similarity: 0.71)",
+      "timestamp": "2026-04-06T01:33:50.951075",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "What are your working hours?",
+      "answer": "Our customer support team is available during the following hours:\n\n*   **Monday to Friday:** 9:00 AM – 6:00 PM (GMT+3)\n*   **Saturday:** 10:00 AM – 4:00 PM (GMT+3)\n*   **Sunday:** Closed\n\nFor urgent issues, priority support chat is available 24/7 for premium members. You can also reach us by phone at +1-800-SUPPORT from Monday to Friday, between 9:00 AM and 6:00 PM.\n\n📚 **Sources:**\n- doc_5ed19f9c_1775431730\n\n📚 Sources:\n- doc_5ed19f9c_1775431730 (similarity: 0.48)\n- doc_a050b4b6_1775431730 (similarity: 0.45)",
+      "timestamp": "2026-04-06T01:34:11.753265",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "بتشتغل كام ساعه",
+      "answer": "عذراً، لا توجد معلومات كافية حول ساعات العمل المحددة في المصادر المتاحة حالياً.\n\nومع ذلك، يمكنك التواصل مع فريق الدعم عبر البريد الإلكتروني **support@company.com** للاستفسار عن أي تفاصيل إضافية، أو تزويدنا بتفاصيل مشكلتك لنتمكن من مساعدتك بشكل\n\n📚 Sources:\n- doc_cf2d9f01_1775431730 (similarity: 0.73)\n- doc_d91876ab_1775431730 (similarity: 0.72)",
+      "timestamp": "2026-04-06T01:34:34.062856",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "ماهي ساعات العمل",
+      "answer": "عذراً، لا توجد معلومات كافية حول ساعات العمل المحددة في المصادر المتاحة حالياً.\n\nومع ذلك، يمكنك التواصل مع فريق الدعم عبر البريد الإلكتروني **support@company.com** للاستفسار عن أي تفاصيل إضافية.\n\n📚 **المصادر:**\n- doc_d91876ab_1775431730\n\n📚 Sources:\n- doc_d91876ab_1775431730 (similarity: 0.72)\n- doc_cf2d9f01_1775431730 (similarity: 0.72)",
+      "timestamp": "2026-04-06T01:34:56.267686",
+      "retrieved_chunks": 6
+    },
+    {
+      "query": "ماهي طريقه الدفع",
+      "answer": "بناءً على المعلومات المتاحة في السياق، يمكنك إدارة وتحديث وسائل الدفع الخاصة بك من خلال الانتقال إلى:\n**الحساب ← طرق الدفع**.\n\nوتشير المصادر إلى استخدام الوسائل التالية:\n*   **البطاقات البنكية:** (يُشار إليها في سياق حل مشكلات الدفع مثل انتهاء صلاحية البطاقة أو الرصيد غير الكافي).\n*   **بايبال (PayPal):** (يُذكر في سياق عمليات استرداد الأموال).\n\nإذا كنت تواجه مشكلة في عملية الدفع، يرجى التأكد من:\n1. مطابقة عنوان الفوترة تماماً لما هو مسجل لدى البنك.\n2. التأكد من تفعيل المعاملات الدولية على بطاقتك.\n3. التحقق من حد الإنفاق اليومي مع البنك الخاص بك.\n\n📚 **المصادر:**\n- doc_a050b4b6_1775431730\n- doc_cf2d9f01_1775431730\n\n📚 Sources:\n- doc_a050b4b6_1775431730 (similarity: 0.79)\n- doc_d91876ab_1775431730 (similarity: 0.78)",
+      "timestamp": "2026-04-06T01:35:22.964413",
+      "retrieved_chunks": 6
+    }
+  ]
+}
